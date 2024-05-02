@@ -5,6 +5,6 @@
 -Тело запроса
 ![Регистрация пользователя Body](https://github.com/MNSolov/4.4.9-JS-Core.-Auth-to-API/assets/152680752/f619dadc-73fd-424f-ae79-812a621438fd)
 Логинимся
-![Логинимся](https://github.com/MNSolov/4.4.9-JS-Core.-Auth-to-API/assets/152680752/9465e4aa-80d3-421f-a4e0-143d99b18760)
+![Логинимся](https://github.com/MNSolov/4.4.9-JS-Core.-Auth-to-API/assets/152680752/5b6a0e08-fe06-4408-b1c6-9f478f5b6a32)
 Получаем текущего пользователя, используя полученый токен
-![Получение текущего пользователя](https://github.com/MNSolov/4.4.9-JS-Core.-Auth-to-API/assets/152680752/0c49bd45-2124-47b0-8bd4-4186c8130375)
+![Получение текущего пользователя](https://github.com/MNSolov/4.4.9-JS-Core.-Auth-to-API/assets/152680752/4e3f2eb0-973d-443a-bd36-97ae4977cb9d)
